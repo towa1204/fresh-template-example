@@ -1,3 +1,4 @@
+わいわい
 # Fresh project
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
